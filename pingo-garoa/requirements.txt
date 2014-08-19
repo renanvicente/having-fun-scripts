@@ -1,0 +1,4 @@
+PyMata==1.58
+pingo==0.2.0
+pyserial==2.7
+wsgiref==0.1.2
